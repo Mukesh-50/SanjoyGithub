@@ -1,0 +1,15 @@
+package day3;
+
+public class Operators6 {
+
+	public static void main(String[] args) 
+	{	
+		int age=17;
+		
+		String result=(age>18) ? "Allowed" : "Not Allowed";
+		
+		System.out.println(result);
+		
+	}
+
+}
